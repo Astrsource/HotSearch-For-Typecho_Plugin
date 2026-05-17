@@ -1,9 +1,5 @@
 # HotSearch - Typecho 热门搜索插件
 
-> 版本：1.3.0  
-> 兼容：Typecho 1.2+  
-> 作者：Typecho User
-
 ---
 
 ## 一、插件简介
