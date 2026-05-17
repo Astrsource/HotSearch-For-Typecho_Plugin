@@ -138,38 +138,6 @@ if (class_exists('HotSearch_Plugin')) {
 </li>
 ```
 
-**配套 CSS：**
-```css
-.hot-search-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-.hot-search-list li {
-    display: inline-block;
-    margin: 0 8px 8px 0;
-}
-.hot-search-list a {
-    display: inline-block;
-    padding: 4px 10px;
-    background: #f4f4f5;
-    border-radius: 4px;
-    color: #555;
-    font-size: 14px;
-    text-decoration: none;
-    transition: all .2s;
-}
-.hot-search-list a:hover {
-    background: #467b96;
-    color: #fff;
-}
-.hot-search-count {
-    margin-left: 4px;
-    opacity: .7;
-    font-size: 12px;
-}
-```
-
 ---
 
 ### 示例 2：排行列表（带序号）
